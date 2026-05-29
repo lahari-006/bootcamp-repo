@@ -1,2 +1,4 @@
-myenv.env
 smoketest.py
+myenv.env
+lahari-env/
+.vscode/
